@@ -1,6 +1,6 @@
 # github-intro
+Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
 
-Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push.
 
 
 ## Fork the Repository
@@ -71,4 +71,21 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
     ```
     > Make sure your description is in quotation marks. It should be a short phrase like "Added haiku to README." For now, do not use special characters like an exclamation mark. This can confuse your terminal.
 
-    > Making a commit is like making a checkpoint. You'll always be able to come back to the way your code is now.
+    > Making a commit is like making a checkpoint. You'll always be able to come back to the way your code is now. However, your commit is only on your computer right now. It is not yet backed up to GitHub.
+
+# Push changes
+1. Check the status:
+    ```
+    git status
+    ```
+    You should see a message that includes the line `Your branch is ahead of 'origin/main' by 1 commit`.
+    > This is telling us that we have one commit that isn't yet backed up to GitHub
+1. Push the change to GitHub
+    ```
+    git push
+    ```
+1. You will be prompted for a username and password. Use your GitHub username, NOT your Green River username. If a fancy window shows up, use your password for the GitHub website. If it asks you for your password directly on the command line, use your [Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic). Paste it in (right-click for Windows, cmd-V for Mac). When typing in your password/PAT it may not look like any text is showing up. That's OK, it's on purpose to make sure your password stays hidden.
+1. If it completes without errors, return to your browser page with your fork of the repo open. Refresh the page and you should see your new change to the README!
+
+# Create a Pull Request
+
