@@ -18,7 +18,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
     ```
 1. Move into this new directory using the `cd` command:
     ```
-    cd sdev 301
+    cd sdev301
     ```
 1. Keep your terminal window open, we will return to it in a moment.
 
