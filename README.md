@@ -3,6 +3,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 
 
 ## Fork the Repository (repo)
+
 1. Make sure you are logged into your GitHub account.
 1. Fork this repository (repo) by clicking the *fork* button.
  ![Image of the fork button on a GitHub repository](images/fork-screenshot.png)
@@ -97,6 +98,6 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. After refreshing the page for YOUR fork you should see a message stating that your branch is 1 commit ahead of `auberonedu/github-intro:main`. To the right of this there is a *Contribute# button. Click the *Contribute* button, and then click on the green *Open pull request* button.
   ![Screenshot showing how to begin opening a pull request](images/begin-pr-screenshot.png)
 1. This will take you to a new page. At the bottom of the page you should see a visual representation of the differences (diff) your new change will introduce. Add a title and description to your pull request (PR).
-1. Click *Open pull request* to open the pull request.
+1. Click *Create pull request* to open the pull request.
 1. Congrats! You have created your first pull request!
 1. In Canvas, please copy the link to the pull request you created to submit your assignment. For this practice exercise I will not be merging your request. But in a real open-source repository, a *maintainer* would give you feedback on your changes, and if they were happy with them the would *merge* your PR (accept your changes into the original version).
