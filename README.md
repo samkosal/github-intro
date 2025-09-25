@@ -1,5 +1,5 @@
 # github-intro
-Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
+Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours! SAM SAAM AMD 
 
 
 ## Fork the Repository (repo)
